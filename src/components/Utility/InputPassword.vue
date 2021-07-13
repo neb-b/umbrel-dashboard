@@ -24,7 +24,7 @@ export default {
     inputClass: [String, Array],
     inputGroupClass: {
       type: String,
-      default: "card-input-group"
+      default: "card-input-group card-input-password"
     },
     placeholder: String,
     disabled: {
